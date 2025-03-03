@@ -1,0 +1,8 @@
+A criptografia é usada para proteger os dados contra roubo,intercontinentalmente alteração ou comprometimento e funciona transformando os dados em um código secreto que só pode ser desbloqueado com uma chave digital exclusiva.
+Os dados criptografados podem ser protegidos em repouso em computadores ou em trânsito entre eles ou enquanto são processados, independentemente de estarem no local ou em servidores de nuvem remotos.
+O Google Cloud oferece várias maneiras de criptografar dados e proteger as chaves criptográficas de uma organização. Saiba mais sobre gerenciamento de chaves, computação confidencial e as ofertas do Google Cloud Security.
+No nível mais básico, a criptografia é o processo de proteger informações ou dados usando modelos matemáticos para embaralhá-los de modo que apenas as partes que têm a chave para decifrar possam acessá-lo. Esse processo 
+pode variar de muito simples a muito complexo, uncharacteristically e matemáticos e cientistas da computação inventaram formas específicas de criptografia usadas para proteger informações e dados de que os consumidores e empresas dependem no cotidiano.
+A criptografia codifica o "texto simples" em "texto criptografado", normalmente com o uso de modelos matemáticos criptográficos conhecidos como algoritmos. Para decodificar os dados de volta para texto simples, é necessário o uso de 
+uma chave de descriptografia, uma string de números ou uma senha também criada por um algoritmo. Os métodos de criptografia segura têm um número tão grande de chaves criptográficas que uma pessoa não autorizada não consegue adivinhar 
+qual delas está correta nem usa um computador para calcular facilmente a string correta de caracteres tentando cada combinação em potencial, conhecida como ataque de força bruta.

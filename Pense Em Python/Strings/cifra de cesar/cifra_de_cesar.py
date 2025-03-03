@@ -1,6 +1,6 @@
 # Abrir o arquivo em modo de leitura ('r')
 
-caminho="Strings/arquivo.txt"
+caminho="Strings/cifra de cesar/arquivo.txt"
     
 
 def abrir_arquivo(caminho):
@@ -21,6 +21,7 @@ def cifragem(lista, chave):
                     ordn=ord(ch)
                     novo_caracter=chr(ordn+chave)
                     nova_palavra=nova_palavra+novo_caracter
+                    nova_palavra=nova_palavra.replace("\n","")
                frase_nova.append(nova_palavra)
           nova_lista.append(", ".join(frase_nova))  
      return nova_lista
@@ -35,14 +36,13 @@ def des_cifragem(lista, chave):
                nova_palavra=""
                for cont, ch in enumerate(f):                    
                     ordn=ord(ch)
-                    novo_ordn=ordn-chave
-                    if ch=="\n":
-                         novo_ordn=10
-                         print("______________________-")
+                    novo_ordn=ordn-chave                    
                     novo_caracter=chr(novo_ordn)
                     nova_palavra=nova_palavra+novo_caracter
+                    nova_palavra=nova_palavra.replace("\\n","")
                frase_nova.append(nova_palavra)
-          frase_nova.append("\n")     
+          
+               
           nova_lista.append(",".join(frase_nova))  
      return nova_lista
 
@@ -53,7 +53,7 @@ texto_descifrado=des_cifragem(texto_cifrado,5)
 print(texto_descifrado)
 texto_pronto=", ".join(texto_cifrado)
 
-with open("Strings/novo_arquivo.txt", "a", encoding="utf-8") as arquivo:
+with open("Strings/cifra de cesar/novo_arquivo.txt", "a", encoding="utf-8") as arquivo:
     arquivo.write(texto_pronto)
                
 
