@@ -1,0 +1,263 @@
+Criptografia, ou criptologia (do grego antigo: κρυπτός, romanizado: kryptós "oculto, secreto"; 
+e γράφειν graphein, "escrever", ou -λογία -logia, "estudo", respectivamente[1]), é a prática e 
+o estudo de técnicas para comunicação segura na presença de comportamento adversário.[2] 
+De forma mais geral, a criptografia trata da construção e análise de protocolos que impedem terceiros ou 
+o público de ler mensagens privadas.[3] A criptografia moderna existe na intersecção das disciplinas de 
+matemática, ciência da computação, segurança da informação, engenharia elétrica, processamento de sinais 
+digitais, física e outras.[4] Conceitos básicos relacionados à segurança da informação (confidencialidade de dados, 
+integridade de dados, autenticação e não repúdio) também são centrais para a criptografia.[5] As aplicações práticas
+da criptografia incluem comércio eletrônico, cartões de pagamento baseados em chip, moedas digitais, senhas de computador e comunicações militares.
+Criptografia antes da era moderna era efetivamente sinônimo de cifragem, convertendo informações legíveis (texto simples) em texto sem sentido
+ininteligível (texto cifrado), que só pode ser lido revertendo o processo (decifragem). O remetente de uma mensagem cifrada (codificada) 
+compartilha a técnica de decifragem (decodificação) apenas com os destinatários pretendidos para impedir o acesso de adversários. 
+A literatura de criptografia geralmente usa os nomes "Alice" (ou "A") para o remetente, "Bob" (ou "B") para o destinatário pretendido 
+e "Eve" (ou "E") para o adversário espião.[6] Desde o desenvolvimento das máquinas de cifrar de rotor na Primeira Guerra Mundial e o 
+advento dos computadores na Segunda Guerra Mundial, os métodos de criptografia se tornaram cada vez mais complexos e suas aplicações mais variadas.
+A criptografia moderna é fortemente baseada em teoria matemática e prática de ciência da computação; algoritmos criptográficos são projetados em 
+torno de suposições de dificuldade/dureza computacional, tornando tais algoritmos difíceis de serem quebrados na prática real por qualquer adversário.
+Embora seja teoricamente possível invadir um sistema bem projetado, é inviável na prática real fazê-lo. Tais esquemas, se bem projetados, são,
+portanto, denominados "computacionalmente seguros". Avanços teóricos (por exemplo, melhorias em algoritmos de fatoração de inteiros) e 
+tecnologia de computação mais rápida exigem que esses designs sejam continuamente reavaliados e, se necessário, adaptados.
+Esquemas teoricamente seguros de informações que comprovadamente não podem ser quebrados mesmo com poder de computação ilimitado,
+como a cifra de único uso (OTP), são muito mais difíceis de usar na prática do que os melhores esquemas teoricamente quebráveis, 
+mas computacionalmente seguros.
+O crescimento da tecnologia criptográfica levantou uma série de questões legais na Era da Informação. 
+O potencial da criptografia para uso como uma ferramenta de espionagem e sedição levou muitos governos 
+a classificá-la como uma arma e a limitar ou mesmo proibir seu uso e exportação.[7] Em algumas jurisdições 
+onde o uso da criptografia é legal, as leis permitem que os investigadores obriguem a divulgação de chaves 
+de encriptação para documentos relevantes para uma investigação.[8][9] A criptografia também desempenha um 
+papel importante na gestão de direitos digitais e disputas de violação de direitos autorais com relação à mídia digital.[10]
+O primeiro uso do termo "criptografia" (em oposição a "criptograma") remonta ao século XIX — originário de "O Escaravelho de Ouro", uma história de Edgar Allan Poe.[11][12]
+Até os tempos modernos, criptografia se referia quase exclusivamente à "cifragem", que é o processo de conversão de informações comuns (chamadas de textos simples) em uma 
+forma ininteligível (chamada de texto cifrado).[13] A decifragem é o inverso, em outras palavras, mover-se do texto cifrado ininteligível de volta para o texto simples. 
+Uma cifra é um par de algoritmos que realizam a cifragem e a decifragem reversa. A operação detalhada de uma cifra é controlada tanto pelo algoritmo quanto, em cada instância, 
+por uma "chave". A chave é um segredo (idealmente conhecido apenas pelos comunicantes), geralmente uma sequência de caracteres (idealmente curta para que possa ser lembrada pelo usuário), 
+que é necessária para decifar o texto cifrado. Em termos matemáticos formais, um "criptossistema" é a lista ordenada de elementos de textos simples finitos possíveis, 
+textos cifrados finitos possíveis, chaves finitas possíveis e os algoritmos de cifragem e decifragem que correspondem a cada chave. Chaves são importantes tanto formalmente 
+quanto na prática real, pois cifras sem chaves variáveis podem ser quebradas trivialmente com apenas o conhecimento da cifra usada e, portanto, são inúteis (ou até mesmo contraproducentes) 
+para a maioria dos propósitos. Historicamente, cifras eram frequentemente usadas diretamente para cifragem ou decifragem sem procedimentos adicionais, como autenticação ou verificações de integridade.
+Existem dois tipos principais de criptossistemas: simétricos e assimétricos. Em sistemas simétricos, os únicos conhecidos até a década de 1970, a mesma chave secreta cifra e decifra uma mensagem. 
+A manipulação de dados em sistemas simétricos é significativamente mais rápida do que em sistemas assimétricos. Os sistemas assimétricos usam uma "chave pública" para cifrar uma mensagem e 
+uma "chave privada" relacionada para a decifrar. A vantagem dos sistemas assimétricos é que a chave pública pode ser publicada livremente, permitindo que as partes estabeleçam uma comunicação 
+segura sem ter uma chave secreta compartilhada. Na prática, os sistemas assimétricos são usados para primeiro trocar uma chave secreta e, em seguida, a comunicação segura prossegue por meio de um 
+sistema simétrico mais eficiente usando essa chave.[14] Exemplos de sistemas assimétricos incluem a troca de chaves de Diffie e Hellman, RSA (Rivest, Shamir, e Adleman), ECC (Criptografia de Curva Elíptica) 
+e criptografia pós-quântica. Algoritmos simétricos seguros incluem o AES (Padrão de Cifragem Avançada) comumente usado, que substituiu o antigo DES (Padrão de Cifragem de Dados).[15] Algoritmos simétricos 
+inseguros incluem esquemas de emaranhamento de linguagem infantis, como Pig Latin ou outros jargões, e todos os esquemas criptográficos históricos, por mais seriamente pretendidos, anteriores à invenção da cifra de uso único no início do século XX.
+No uso coloquial, o termo "código" é frequentemente usado para significar qualquer método de cifragem ou ocultação de significado. No entanto, na criptografia, código tem um significado mais específico: a substituição de uma unidade de texto simples 
+(ou seja, uma palavra ou frase significativa) por uma palavra de código (por exemplo, "wallaby" substitui "ataque ao amanhecer"). Uma cifra, em contraste, é um esquema para alterar ou substituir um elemento abaixo de tal nível (uma letra, uma sílaba 
+ou um par de letras, etc.) para produzir um texto cifrado.
+Criptoanálise é o termo usado para o estudo de métodos para obter o significado de informações cifradas sem acesso à chave normalmente necessária para isso; ou seja, é o estudo de como "quebrar" algoritmos de cifragem ou suas implementações.
+Alguns usam os termos "criptografia" e "criptologia" alternadamente em inglês,[16] enquanto outros (incluindo a prática militar dos EUA em geral) usam "criptografia" para se referir especificamente ao uso e à prática de técnicas criptográficas 
+e "criptologia" para se referir ao estudo combinado de criptografia e criptoanálise.[17][18] O inglês é mais flexível do que várias outras línguas nas quais "criptologia" (feita por criptologistas) é sempre usada no segundo sentido acima. 
+A RFC 2828 informa que a esteganografia às vezes é incluída na criptologia.[19]
+O estudo das características das línguas que têm alguma aplicação em criptografia ou criptologia (por exemplo, dados de frequência, combinações de letras, padrões universais, etc.) é chamado de criptolinguística. 
+A criptolinguística é especialmente usada em aplicações de inteligência militar para decifrar comunicações estrangeiras.[20][21]
+Antes da era moderna, a criptografia focava na confidencialidade da mensagem (ou seja, cifragem) — conversão de mensagens de uma forma compreensível para uma incompreensível e de volta na outra ponta, tornando-a ilegível por interceptadores ou bisbilhoteiros sem conhecimento secreto (ou seja, a chave necessária para decifrar essa mensagem). A cifragem tentava garantir o sigilo nas comunicações, como as de espiões, líderes militares e diplomatas. Nas últimas décadas, o campo se expandiu além das preocupações com a confidencialidade para incluir técnicas de verificação de integridade de mensagens, autenticação de identidade de remetente/destinatário, assinaturas digitais, provas interativas e computação segura, entre outras.
+Os principais tipos de cifras clássicas são cifras de transposição, que reorganizam a ordem das letras em uma mensagem (por exemplo, "hello world" se torna "ehlol owrdl" em um esquema de rearranjo trivialmente simples) e cifras de substituição, que substituem sistematicamente letras ou grupos de letras por outras letras ou grupos de letras (por exemplo, "voar de uma vez" se torna "wpbs ef vnb wfa" substituindo cada letra pela seguinte no alfabeto latino).[22] Versões simples de qualquer uma delas nunca ofereceram muita confidencialidade de oponentes empreendedores. Uma cifra de substituição inicial foi a cifra de César, na qual cada letra no texto simples era substituída por uma letra com um número fixo de posições mais abaixo no alfabeto. Suetônio relata que Júlio César a usava com um deslocamento de três para se comunicar com seus generais. A Atbash é um exemplo de uma cifra hebraica inicial. O primeiro uso conhecido da criptografia é algum texto cifrado esculpido em pedra no Egito (c. 1900 a.E.C.), mas isso pode ter sido feito para a diversão de observadores letrados e não como uma forma de ocultar informações.
+Diz-se que os gregos dos tempos clássicos conheciam cifras (por exemplo, a cifra de transposição da cítala que se alega ter sido usada pelos militares espartanos).[23] A esteganografia (ou seja, esconder até mesmo a existência de uma mensagem para mantê-la confidencial) também foi desenvolvida pela primeira vez nos tempos antigos. Um exemplo antigo, de Heródoto, foi uma mensagem tatuada na cabeça raspada de um escravo e escondida sob o cabelo crescido.[13] Outros métodos de esteganografia envolvem "esconder-se à vista de todos", como usar uma cifra musical para disfarçar uma mensagem criptografada dentro de uma partitura regular. Exemplos mais modernos de esteganografia incluem o uso de tinta invisível, micropontos e marcas d'água digitais para ocultar informações.
+Na Índia, o Kama Sutra de Vātsyāyana, de 2000 anos, fala de dois tipos diferentes de cifras chamadas Kautiliyam e Mulavediya. No Kautiliyam, as substituições de letras da cifra são baseadas em relações fonéticas, como vogais se tornando consoantes. No Mulavediya, o alfabeto da cifra consiste em parear letras e usar as recíprocas.[13]
+Na Pérsia Sassânida, havia duas escritas secretas, de acordo com o autor muçulmano Ibn al-Nadim: a šāh-dabīrīya (literalmente "escrita do rei"), que era usada para correspondência oficial, e a rāz-saharīya, que era usada para comunicar mensagens secretas com outros países.[24]
+David Kahn observa em The Codebreakers que a criptologia moderna se originou entre os árabes, o primeiro povo a documentar sistematicamente métodos criptoanalíticos.[25] Al-Khalil (717–786) escreveu o Livro de Mensagens Criptográficas, que contém o primeiro uso de permutações e combinações para listar todas as palavras árabes possíveis com e sem vogais.[26]
+Os principais tipos de cifras clássicas são cifras de transposição, que reorganizam a ordem das letras em uma mensagem (por exemplo, "hello world" se torna "ehlol owrdl" em um esquema de rearranjo trivialmente simples) e cifras de substituição, que substituem sistematicamente letras ou grupos de letras por outras letras ou grupos de letras (por exemplo, "voar de uma vez" se torna "wpbs ef vnb wfa" substituindo cada letra pela seguinte no alfabeto latino).[22] Versões simples de qualquer uma delas nunca ofereceram muita confidencialidade de oponentes empreendedores. Uma cifra de substituição inicial foi a cifra de César, na qual cada letra no texto simples era substituída por uma letra com um número fixo de posições mais abaixo no alfabeto. Suetônio relata que Júlio César a usava com um deslocamento de três para se comunicar com seus generais. A Atbash é um exemplo de uma cifra hebraica inicial. O primeiro uso conhecido da criptografia é algum texto cifrado esculpido em pedra no Egito (c. 1900 a.E.C.), mas isso pode ter sido feito para a diversão de observadores letrados e não como uma forma de ocultar informações.
+Diz-se que os gregos dos tempos clássicos conheciam cifras (por exemplo, a cifra de transposição da cítala que se alega ter sido usada pelos militares espartanos).[23] A esteganografia (ou seja, esconder até mesmo a existência de uma mensagem para mantê-la confidencial) também foi desenvolvida pela primeira vez nos tempos antigos. Um exemplo antigo, de Heródoto, foi uma mensagem tatuada na cabeça raspada de um escravo e escondida sob o cabelo crescido.[13] Outros métodos de esteganografia envolvem "esconder-se à vista de todos", como usar uma cifra musical para disfarçar uma mensagem criptografada dentro de uma partitura regular. Exemplos mais modernos de esteganografia incluem o uso de tinta invisível, micropontos e marcas d'água digitais para ocultar informações.
+Na Índia, o Kama Sutra de Vātsyāyana, de 2000 anos, fala de dois tipos diferentes de cifras chamadas Kautiliyam e Mulavediya. No Kautiliyam, as substituições de letras da cifra são baseadas em relações fonéticas, como vogais se tornando consoantes. No Mulavediya, o alfabeto da cifra consiste em parear letras e usar as recíprocas.[13]
+Na Pérsia Sassânida, havia duas escritas secretas, de acordo com o autor muçulmano Ibn al-Nadim: a šāh-dabīrīya (literalmente "escrita do rei"), que era usada para correspondência oficial, e a rāz-saharīya, que era usada para comunicar mensagens secretas com outros países.[24]
+David Kahn observa em The Codebreakers que a criptologia moderna se originou entre os árabes, o primeiro povo a documentar sistematicamente métodos criptoanalíticos.[25] Al-Khalil (717–786) escreveu o Livro de Mensagens Criptográficas, que contém o primeiro uso de permutações e combinações para listar todas as palavras árabes possíveis com e sem vogais.[26]
+As frequências de letras de idioma podem oferecer pouca ajuda para algumas técnicas de criptografia histórica estendidas, como a cifra homofônica, que tende a achatar a distribuição de frequência. Para essas cifras, as frequências de grupos de letras de idioma (ou n-grama) podem fornecer um ataque.
+Essencialmente todas as cifras permaneceram vulneráveis ​​à criptoanálise usando a técnica de análise de frequência até o desenvolvimento da cifra polialfabética, mais claramente por Leon Battista Alberti por volta do ano de 1467, embora haja alguma indicação de que já era conhecida por Al-Kindi.[28] A inovação de Alberti foi usar diferentes cifras (ou seja, alfabetos de substituição) para várias partes de uma mensagem (talvez para cada letra de texto simples sucessiva no limite). Ele também inventou o que provavelmente foi o primeiro dispositivo cifrador automático, uma roda que implementou uma realização parcial de sua invenção. Na cifra de Vigenère, uma cifra polialfabética, a cifragem usa uma palavra-chave, que controla a substituição de letras dependendo de qual letra da palavra-chave é usada. Em meados do século XIX, Charles Babbage mostrou que a cifra de Vigenère era vulnerável ao exame de Kasiski, mas isso foi publicado pela primeira vez cerca de dez anos depois por Friedrich Kasiski.[29]
+Criptografia é essencial para a criptografia de dados. A criptografia garante a criptografia da informação, e a criptografia é usada em várias áreas. Na criptografia, a segurança vem da criptografia robusta. Criptografia moderna usa métodos avançados de criptografia para proteger a criptografia de sistemas. A criptografia evolui constantemente, com técnicas de criptografia cada vez mais sofisticadas. A criptografia é fundamental no campo da criptografia cibernética.
+A criptografia é um campo fundamental no mundo da segurança digital. A utilização de técnicas de criptografia garante que os dados sejam transmitidos de maneira segura, protegendo informações sensíveis contra acessos não autorizados. Ao longo da história, a criptografia evoluiu significativamente, desde os métodos simples utilizados pelos antigos até os algoritmos complexos usados hoje.
+Hoje, em muitos setores, a criptografia é essencial para a proteção da privacidade. Sistemas de criptografia são empregados em transações bancárias online, comunicação segura, e até mesmo no armazenamento de dados pessoais em dispositivos móveis e servidores. Isso garante que a criptografia de ponta a ponta seja aplicada de forma eficaz, impedindo que dados sejam interceptados ou adulterados durante a transmissão.
+Os métodos de criptografia simétrica e assimétrica são amplamente usados em diferentes cenários. Na criptografia simétrica, a mesma chave é usada para criptografar e descriptografar os dados. Já na criptografia assimétrica, utiliza-se um par de chaves, sendo uma pública e a outra privada, permitindo que os dados sejam criptografados com uma chave e descriptografados com outra. A criptografia assimétrica é especialmente útil em sistemas de autenticação e assinatura digital.
+Ao estudar criptografia, um dos principais conceitos que surgem é o de algoritmos seguros. Um algoritmo de criptografia é considerado seguro quando, mesmo com o conhecimento do algoritmo e de uma parte dos dados, é impossível descobrir a chave de criptografia. Isso torna a criptografia um elemento essencial na construção de sistemas de segurança de confiança.
+Com o avanço das tecnologias e o aumento da quantidade de dados digitais, a importância da criptografia só tende a crescer. As ameaças cibernéticas estão se tornando cada vez mais sofisticadas, o que torna a criptografia uma ferramenta indispensável na luta contra hackers e outros agentes maliciosos. Para garantir que a criptografia seja realmente eficaz, os sistemas devem ser atualizados regularmente, adaptando-se às novas ameaças e aproveitando os últimos avanços na área.
+Porém, a criptografia não é uma solução mágica. A chave para uma criptografia eficaz também está no manejo seguro das chaves de criptografia. Se uma chave for comprometida, toda a segurança proporcionada pela criptografia é destruída. Além disso, é essencial que os algoritmos utilizados sejam revisados e testados constantemente para garantir que continuam sendo seguros diante das ameaças atuais.
+O papel da criptografia na sociedade moderna é, portanto, de extrema importância. Sem ela, muitas das tecnologias que usamos todos os dias não seriam viáveis. Por exemplo, os sistemas de criptografia usados em transações financeiras online permitem que as pessoas façam compras e paguem contas com confiança, sabendo que seus dados estão protegidos. Além disso, a criptografia também é aplicada em serviços de mensagens e e-mails para garantir que apenas os destinatários autorizados possam ler as informações enviadas.
+A criptografia também desempenha um papel crucial no cumprimento das leis de proteção de dados, como o Regulamento Geral de Proteção de Dados (GDPR), que exige que as empresas adotem medidas para proteger a privacidade dos dados pessoais. A criptografia ajuda a garantir que, mesmo em caso de violação de segurança, os dados estejam protegidos e não possam ser acessados sem a chave apropriada.
+Em resumo, a criptografia é uma ferramenta poderosa e essencial na proteção de informações sensíveis. À medida que as ameaças cibernéticas continuam a evoluir, a criptografia também precisa se adaptar para garantir que os dados estejam seguros. É uma área em constante desenvolvimento e estudo, com novos métodos e técnicas de criptografia surgindo o tempo todo, buscando melhorar a segurança digital e garantir a privacidade dos usuários na era digital.
+
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia
+criptografia

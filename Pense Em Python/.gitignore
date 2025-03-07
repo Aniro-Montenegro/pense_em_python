@@ -1,0 +1,32 @@
+# Ignorar arquivos de ambiente virtual
+venv/
+.env/
+env/
+
+# Ignorar arquivos de compilação do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar arquivos de log e caches
+*.log
+*.sqlite3
+db.sqlite3
+
+# Ignorar configurações de IDEs/editors
+.vscode/
+.idea/
+*.swp
+
+# Ignorar arquivos de pacotes e dependências
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Ignorar arquivos do Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignorar credenciais e configurações locais
+*.env
+*.secret
+config.json
