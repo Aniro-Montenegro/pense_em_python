@@ -20,8 +20,10 @@ def probabilidade(lista):
     dicionario_prob = {chave: "{:.2f}".format((valor / tamanho) * 100) for chave, valor in frequencia_ordenada}
     arquivo=open('Estudos_de_caso/porcentagem.txt','w',encoding="utf-8")
     texto=''
+    indice=1
     for c , v in dicionario_prob.items():
-          texto=texto+ c+(((maior_tamanho-len(c))*" "))+" : "+str(v)+"\n"
+          texto=texto+str(indice)+" "+ c+(((maior_tamanho-len(c))*" "))+" : "+str(v)+"\n"
+          indice+=1
           
     arquivo.write(texto)   
     arquivo.close()

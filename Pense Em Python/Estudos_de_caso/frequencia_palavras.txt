@@ -1,7 +1,7 @@
-criptografia       : 248
 de                 : 213
 a                  : 86
 e                  : 74
+criptografia       : 63
 que                : 60
 uma                : 60
 para               : 57

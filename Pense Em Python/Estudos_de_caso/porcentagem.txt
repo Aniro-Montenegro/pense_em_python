@@ -1,956 +1,956 @@
-criptografia       : 7.68
-de                 : 6.60
-a                  : 2.66
-e                  : 2.29
-que                : 1.86
-uma                : 1.86
-para               : 1.77
-o                  : 1.55
-é                  : 1.33
-em                 : 1.21
-da                 : 1.05
-ou                 : 0.96
-os                 : 0.87
-se                 : 0.87
-A                  : 0.84
-um                 : 0.84
-cifra              : 0.81
-na                 : 0.77
-por                : 0.74
-com                : 0.71
-chave              : 0.62
-letras             : 0.59
-mais               : 0.53
-dados              : 0.53
-no                 : 0.50
-como               : 0.46
-as                 : 0.46
-cifras             : 0.46
-texto              : 0.43
-mensagem           : 0.43
-exemplo            : 0.43
-uso                : 0.43
-são                : 0.40
-simples            : 0.40
-do                 : 0.37
-das                : 0.37
-era                : 0.37
-usada              : 0.37
-sistemas           : 0.37
-informações        : 0.34
-cifragem           : 0.31
-O                  : 0.31
-dos                : 0.31
-métodos            : 0.31
-cada               : 0.31
-seja               : 0.31
-prática            : 0.28
-também             : 0.28
-sem                : 0.28
-algoritmos         : 0.28
-primeiro           : 0.28
-letra              : 0.28
-foi                : 0.28
-criptologia        : 0.25
-moderna            : 0.25
-segurança          : 0.25
-à                  : 0.25
-não                : 0.25
-vez                : 0.25
-mesmo              : 0.25
-Na                 : 0.25
-estudo             : 0.22
-técnicas           : 0.22
-digitais           : 0.22
-cifrado            : 0.22
-ser                : 0.22
-seguros            : 0.22
-até                : 0.22
-substituição       : 0.22
-esteganografia     : 0.22
-garantir           : 0.22
-segura             : 0.19
-forma              : 0.19
-mensagens          : 0.19
-outras             : 0.19
-incluem            : 0.19
-decifragem         : 0.19
-usar               : 0.19
-chaves             : 0.19
-assimétricos       : 0.19
-No                 : 0.19
-torna              : 0.19
-pela               : 0.19
-alfabeto           : 0.19
-Criptografia       : 0.15
-computação         : 0.15
-confidencialidade  : 0.15
-tornando           : 0.15
-sejam              : 0.15
-Em                 : 0.15
-digital            : 0.15
-ao                 : 0.15
-tempos             : 0.15
-possíveis          : 0.15
-tipos              : 0.15
-simétricos         : 0.15
-ter                : 0.15
-outros             : 0.15
-grupos             : 0.15
-essencial          : 0.15
-antigo             : 0.12
-comunicação        : 0.12
-autenticação       : 0.12
-militares          : 0.12
-pode               : 0.12
-apenas             : 0.12
-qualquer           : 0.12
-esquemas           : 0.12
-podem              : 0.12
-mas                : 0.12
-Uma                : 0.12
-pelos              : 0.12
-principais         : 0.12
-Os                 : 0.12
-usados             : 0.12
-todos              : 0.12
-palavra            : 0.12
-isso               : 0.12
-transposição       : 0.12
-sistematicamente   : 0.12
-inicial            : 0.12
-César              : 0.12
-comunicar          : 0.12
-sido               : 0.12
-ocultar            : 0.12
-esconder           : 0.12
-diferentes         : 0.12
-Kautiliyam         : 0.12
-Mulavediya         : 0.12
-vogais             : 0.12
-secretas           : 0.12
-árabes             : 0.12
-ameaças            : 0.12
-adversário         : 0.09
-informação         : 0.09
-integridade        : 0.09
-As                 : 0.09
-aplicações         : 0.09
-comunicações       : 0.09
-ininteligível      : 0.09
-remetente          : 0.09
-usa                : 0.09
-E                  : 0.09
-desenvolvimento    : 0.09
-real               : 0.09
-teoricamente       : 0.09
-portanto           : 0.09
-ferramenta         : 0.09
-la                 : 0.09
-papel              : 0.09
-termo              : 0.09
-século             : 0.09
-modernos           : 0.09
-chamadas           : 0.09
-textos             : 0.09
-palavras           : 0.09
-volta              : 0.09
-par                : 0.09
-algoritmo          : 0.09
-conhecido          : 0.09
-necessária         : 0.09
-trivialmente       : 0.09
-conhecimento       : 0.09
-dois               : 0.09
-secreta            : 0.09
-usam               : 0.09
-pública            : 0.09
-decifrar           : 0.09
-Exemplos           : 0.09
-usado              : 0.09
-código             : 0.09
-significado        : 0.09
-esquema            : 0.09
-abaixo             : 0.09
-várias             : 0.09
-frequência         : 0.09
-combinações        : 0.09
-outra              : 0.09
-ponta              : 0.09
-campo              : 0.09
-entre              : 0.09
-qual               : 0.09
-seus               : 0.09
-primeira           : 0.09
-antigos            : 0.09
-Um                 : 0.09
-anos               : 0.09
-Al                 : 0.09
-todas              : 0.09
-garante            : 0.09
-proteção           : 0.09
-privacidade        : 0.09
-eficaz             : 0.09
-assimétrica        : 0.09
-secreto            : 0.06
-geral              : 0.06
-construção         : 0.06
-análise            : 0.06
-ler                : 0.06
-matemática         : 0.06
-ciência            : 0.06
-sentido            : 0.06
-só                 : 0.06
-processo           : 0.06
-técnica            : 0.06
-destinatários      : 0.06
-pretendidos        : 0.06
-acesso             : 0.06
-geralmente         : 0.06
-destinatário       : 0.06
-cifrar             : 0.06
-Guerra             : 0.06
-Mundial            : 0.06
-complexos          : 0.06
-suas               : 0.06
-criptográficos     : 0.06
-projetados         : 0.06
-difíceis           : 0.06
-quebrados          : 0.06
-sistema            : 0.06
-bem                : 0.06
-computacionalmente : 0.06
-tecnologia         : 0.06
-rápida             : 0.06
-único              : 0.06
-muitos             : 0.06
-algumas            : 0.06
-leis               : 0.06
-permitem           : 0.06
-desempenha         : 0.06
-direitos           : 0.06
-violação           : 0.06
-XIX                : 0.06
-—                  : 0.06
-história           : 0.06
-conversão          : 0.06
-tanto              : 0.06
-pelo               : 0.06
-quanto             : 0.06
-idealmente         : 0.06
-termos             : 0.06
-finitos            : 0.06
-frequentemente     : 0.06
-mesma              : 0.06
-significativamente : 0.06
-privada            : 0.06
-permitindo         : 0.06
-partes             : 0.06
-usando             : 0.06
-essa               : 0.06
-Algoritmos         : 0.06
-Padrão             : 0.06
-Cifragem           : 0.06
-Dados              : 0.06
-invenção           : 0.06
-ataque             : 0.06
-elemento           : 0.06
-etc                : 0.06
-inglês             : 0.06
-militar            : 0.06
-referir            : 0.06
-criptoanálise      : 0.06
-línguas            : 0.06
-nas                : 0.06
-às                 : 0.06
-alguma             : 0.06
-criptolinguística  : 0.06
-especialmente      : 0.06
-clássicas          : 0.06
-reorganizam        : 0.06
-ordem              : 0.06
-hello              : 0.06
-world              : 0.06
-ehlol              : 0.06
-owrdl              : 0.06
-rearranjo          : 0.06
-substituem         : 0.06
-voar               : 0.06
-wpbs               : 0.06
-ef                 : 0.06
-vnb                : 0.06
-wfa                : 0.06
-substituindo       : 0.06
-seguinte           : 0.06
-latino             : 0.06
-Versões            : 0.06
-delas              : 0.06
-nunca              : 0.06
-ofereceram         : 0.06
-muita              : 0.06
-oponentes          : 0.06
-empreendedores     : 0.06
-substituída        : 0.06
-número             : 0.06
-fixo               : 0.06
-posições           : 0.06
-Suetônio           : 0.06
-relata             : 0.06
-Júlio              : 0.06
-usava              : 0.06
-deslocamento       : 0.06
-três               : 0.06
-generais           : 0.06
-Atbash             : 0.06
-hebraica           : 0.06
-algum              : 0.06
-esculpido          : 0.06
-pedra              : 0.06
-Egito              : 0.06
-c                  : 0.06
-C                  : 0.06
-feito              : 0.06
-diversão           : 0.06
-observadores       : 0.06
-letrados           : 0.06
-Diz                : 0.06
-gregos             : 0.06
-clássicos          : 0.06
-conheciam          : 0.06
-cítala             : 0.06
-alega              : 0.06
-espartanos         : 0.06
-existência         : 0.06
-mantê              : 0.06
-confidencial       : 0.06
-desenvolvida       : 0.06
-nos                : 0.06
-Heródoto           : 0.06
-tatuada            : 0.06
-cabeça             : 0.06
-raspada            : 0.06
-escravo            : 0.06
-escondida          : 0.06
-sob                : 0.06
-cabelo             : 0.06
-crescido           : 0.06
-Outros             : 0.06
-envolvem           : 0.06
-vista              : 0.06
-musical            : 0.06
-disfarçar          : 0.06
-criptografada      : 0.06
-dentro             : 0.06
-partitura          : 0.06
-regular            : 0.06
-tinta              : 0.06
-invisível          : 0.06
-micropontos        : 0.06
-marcas             : 0.06
-d                  : 0.06
-água               : 0.06
-Índia              : 0.06
-Kama               : 0.06
-Sutra              : 0.06
-Vātsyāyana         : 0.06
-fala               : 0.06
-substituições      : 0.06
-baseadas           : 0.06
-relações           : 0.06
-fonéticas          : 0.06
-consoantes         : 0.06
-consiste           : 0.06
-parear             : 0.06
-recíprocas         : 0.06
-Pérsia             : 0.06
-Sassânida          : 0.06
-havia              : 0.06
-duas               : 0.06
-escritas           : 0.06
-acordo             : 0.06
-autor              : 0.06
-muçulmano          : 0.06
-Ibn                : 0.06
-al                 : 0.06
-Nadim              : 0.06
-šāh                : 0.06
-dabīrīya           : 0.06
-literalmente       : 0.06
-escrita            : 0.06
-rei                : 0.06
-correspondência    : 0.06
-oficial            : 0.06
-rāz                : 0.06
-saharīya           : 0.06
-países             : 0.06
-David              : 0.06
-Kahn               : 0.06
-observa            : 0.06
-The                : 0.06
-Codebreakers       : 0.06
-originou           : 0.06
-povo               : 0.06
-documentar         : 0.06
-criptoanalíticos   : 0.06
-Khalil             : 0.06
-–                  : 0.06
-escreveu           : 0.06
-Livro              : 0.06
-Mensagens          : 0.06
-Criptográficas     : 0.06
-contém             : 0.06
-permutações        : 0.06
-listar             : 0.06
-frequências        : 0.06
-idioma             : 0.06
-ajuda              : 0.06
-tende              : 0.06
-Para               : 0.06
-polialfabética     : 0.06
-Alberti            : 0.06
-Vigenère           : 0.06
-Kasiski            : 0.06
-proteger           : 0.06
-constantemente     : 0.06
-sofisticadas       : 0.06
-fundamental        : 0.06
-sensíveis          : 0.06
-contra             : 0.06
-autorizados        : 0.06
-Ao                 : 0.06
-utilizados         : 0.06
-transações         : 0.06
-online             : 0.06
-pessoais           : 0.06
-Isso               : 0.06
-aplicada           : 0.06
-simétrica          : 0.06
-sendo              : 0.06
-seguro             : 0.06
-confiança          : 0.06
-tecnologias        : 0.06
-importância        : 0.06
-cibernéticas       : 0.06
-estão              : 0.06
-área               : 0.06
-Além               : 0.06
-disso              : 0.06
-continuam          : 0.06
-protegidos         : 0.06
-possam             : 0.06
-estejam            : 0.06
-grego              : 0.03
-κρυπτός            : 0.03
-romanizado         : 0.03
-kryptós            : 0.03
-oculto             : 0.03
-γράφειν            : 0.03
-graphein           : 0.03
-escrever           : 0.03
-λογία              : 0.03
-logia              : 0.03
-respectivamente    : 0.03
-presença           : 0.03
-comportamento      : 0.03
-De                 : 0.03
-trata              : 0.03
-protocolos         : 0.03
-impedem            : 0.03
-terceiros          : 0.03
-público            : 0.03
-privadas           : 0.03
-existe             : 0.03
-intersecção        : 0.03
-disciplinas        : 0.03
-engenharia         : 0.03
-elétrica           : 0.03
-processamento      : 0.03
-sinais             : 0.03
-física             : 0.03
-Conceitos          : 0.03
-básicos            : 0.03
-relacionados       : 0.03
-repúdio            : 0.03
-centrais           : 0.03
-práticas           : 0.03
-comércio           : 0.03
-eletrônico         : 0.03
-cartões            : 0.03
-pagamento          : 0.03
-baseados           : 0.03
-chip               : 0.03
-moedas             : 0.03
-senhas             : 0.03
-computador         : 0.03
-antes              : 0.03
-efetivamente       : 0.03
-sinônimo           : 0.03
-convertendo        : 0.03
-legíveis           : 0.03
-lido               : 0.03
-revertendo         : 0.03
-cifrada            : 0.03
-codificada         : 0.03
-compartilha        : 0.03
-decodificação      : 0.03
-impedir            : 0.03
-adversários        : 0.03
-literatura         : 0.03
-nomes              : 0.03
-Alice              : 0.03
-Bob                : 0.03
-B                  : 0.03
-pretendido         : 0.03
-Eve                : 0.03
-espião             : 0.03
-Desde              : 0.03
-máquinas           : 0.03
-rotor              : 0.03
-Primeira           : 0.03
-advento            : 0.03
-computadores       : 0.03
-Segunda            : 0.03
-tornaram           : 0.03
-variadas           : 0.03
-fortemente         : 0.03
-baseada            : 0.03
-teoria             : 0.03
-torno              : 0.03
-suposições         : 0.03
-dificuldade        : 0.03
-dureza             : 0.03
-computacional      : 0.03
-tais               : 0.03
-serem              : 0.03
-Embora             : 0.03
-possível           : 0.03
-invadir            : 0.03
-projetado          : 0.03
-inviável           : 0.03
-fazê               : 0.03
-lo                 : 0.03
-Tais               : 0.03
-denominados        : 0.03
-Avanços            : 0.03
-teóricos           : 0.03
-melhorias          : 0.03
-fatoração          : 0.03
-inteiros           : 0.03
-exigem             : 0.03
-esses              : 0.03
-designs            : 0.03
-continuamente      : 0.03
-reavaliados        : 0.03
-necessário         : 0.03
-adaptados          : 0.03
-Esquemas           : 0.03
-comprovadamente    : 0.03
-poder              : 0.03
-ilimitado          : 0.03
-OTP                : 0.03
-muito              : 0.03
-melhores           : 0.03
-quebráveis         : 0.03
-crescimento        : 0.03
-criptográfica      : 0.03
-levantou           : 0.03
-série              : 0.03
-questões           : 0.03
-legais             : 0.03
-Era                : 0.03
-Informação         : 0.03
-potencial          : 0.03
-espionagem         : 0.03
-sedição            : 0.03
-levou              : 0.03
-governos           : 0.03
-classificá         : 0.03
-arma               : 0.03
-limitar            : 0.03
-proibir            : 0.03
-seu                : 0.03
-exportação         : 0.03
-jurisdições        : 0.03
-onde               : 0.03
-legal              : 0.03
-investigadores     : 0.03
-obriguem           : 0.03
-divulgação         : 0.03
-encriptação        : 0.03
-documentos         : 0.03
-relevantes         : 0.03
-investigação       : 0.03
-importante         : 0.03
-gestão             : 0.03
-disputas           : 0.03
-autorais           : 0.03
-relação            : 0.03
-mídia              : 0.03
-oposição           : 0.03
-criptograma        : 0.03
-remonta            : 0.03
-originário         : 0.03
-Escaravelho        : 0.03
-Ouro               : 0.03
-Edgar              : 0.03
-Allan              : 0.03
-Poe                : 0.03
-Até                : 0.03
-referia            : 0.03
-quase              : 0.03
-exclusivamente     : 0.03
-comuns             : 0.03
-chamada            : 0.03
-inverso            : 0.03
-mover              : 0.03
-realizam           : 0.03
-reversa            : 0.03
-operação           : 0.03
-detalhada          : 0.03
-controlada         : 0.03
-instância          : 0.03
-segredo            : 0.03
-comunicantes       : 0.03
-sequência          : 0.03
-caracteres         : 0.03
-curta              : 0.03
-possa              : 0.03
-lembrada           : 0.03
-usuário            : 0.03
-decifar            : 0.03
-matemáticos        : 0.03
-formais            : 0.03
-criptossistema     : 0.03
-lista              : 0.03
-ordenada           : 0.03
-elementos          : 0.03
-cifrados           : 0.03
-finitas            : 0.03
-correspondem       : 0.03
-Chaves             : 0.03
-importantes        : 0.03
-formalmente        : 0.03
-pois               : 0.03
-variáveis          : 0.03
-quebradas          : 0.03
-inúteis            : 0.03
-contraproducentes  : 0.03
-maioria            : 0.03
-propósitos         : 0.03
-Historicamente     : 0.03
-eram               : 0.03
-usadas             : 0.03
-diretamente        : 0.03
-procedimentos      : 0.03
-adicionais         : 0.03
-verificações       : 0.03
-Existem            : 0.03
-criptossistemas    : 0.03
-únicos             : 0.03
-conhecidos         : 0.03
-década             : 0.03
-decifra            : 0.03
-manipulação        : 0.03
-relacionada        : 0.03
-vantagem           : 0.03
-publicada          : 0.03
-livremente         : 0.03
-estabeleçam        : 0.03
-compartilhada      : 0.03
-trocar             : 0.03
-seguida            : 0.03
-prossegue          : 0.03
-meio               : 0.03
-simétrico          : 0.03
-eficiente          : 0.03
-troca              : 0.03
-Diffie             : 0.03
-Hellman            : 0.03
-RSA                : 0.03
-Rivest             : 0.03
-Shamir             : 0.03
-Adleman            : 0.03
-ECC                : 0.03
-Curva              : 0.03
-Elíptica           : 0.03
-pós                : 0.03
-quântica           : 0.03
-AES                : 0.03
-Avançada           : 0.03
-comumente          : 0.03
-substituiu         : 0.03
-DES                : 0.03
-inseguros          : 0.03
-emaranhamento      : 0.03
-linguagem          : 0.03
-infantis           : 0.03
-Pig                : 0.03
-Latin              : 0.03
-jargões            : 0.03
-históricos         : 0.03
-seriamente         : 0.03
-anteriores         : 0.03
-início             : 0.03
-XX                 : 0.03
-coloquial          : 0.03
-significar         : 0.03
-método             : 0.03
-ocultação          : 0.03
-entanto            : 0.03
-tem                : 0.03
-específico         : 0.03
-unidade            : 0.03
-frase              : 0.03
-significativa      : 0.03
-wallaby            : 0.03
-substitui          : 0.03
-amanhecer          : 0.03
-contraste          : 0.03
-alterar            : 0.03
-substituir         : 0.03
-tal                : 0.03
-nível              : 0.03
-sílaba             : 0.03
-produzir           : 0.03
-Criptoanálise      : 0.03
-obter              : 0.03
-cifradas           : 0.03
-normalmente        : 0.03
-quebrar            : 0.03
-implementações     : 0.03
-Alguns             : 0.03
-alternadamente     : 0.03
-enquanto           : 0.03
-incluindo          : 0.03
-EUA                : 0.03
-especificamente    : 0.03
-criptográficas     : 0.03
-combinado          : 0.03
-flexível           : 0.03
-quais              : 0.03
-feita              : 0.03
-criptologistas     : 0.03
-sempre             : 0.03
-segundo            : 0.03
-acima              : 0.03
-RFC                : 0.03
-informa            : 0.03
-vezes              : 0.03
-incluída           : 0.03
-características    : 0.03
-têm                : 0.03
-aplicação          : 0.03
-padrões            : 0.03
-universais         : 0.03
-chamado            : 0.03
-inteligência       : 0.03
-estrangeiras       : 0.03
-Antes              : 0.03
-focava             : 0.03
-compreensível      : 0.03
-incompreensível    : 0.03
-ilegível           : 0.03
-interceptadores    : 0.03
-bisbilhoteiros     : 0.03
-tentava            : 0.03
-sigilo             : 0.03
-espiões            : 0.03
-líderes            : 0.03
-diplomatas         : 0.03
-Nas                : 0.03
-últimas            : 0.03
-décadas            : 0.03
-expandiu           : 0.03
-além               : 0.03
-preocupações       : 0.03
-incluir            : 0.03
-verificação        : 0.03
-identidade         : 0.03
-assinaturas        : 0.03
-provas             : 0.03
-interativas        : 0.03
-oferecer           : 0.03
-pouca              : 0.03
-histórica          : 0.03
-estendidas         : 0.03
-homofônica         : 0.03
-achatar            : 0.03
-distribuição       : 0.03
-essas              : 0.03
-n                  : 0.03
-grama              : 0.03
-fornecer           : 0.03
-Essencialmente     : 0.03
-permaneceram       : 0.03
-vulneráveis        : 0.03
-​​à                : 0.03
-claramente         : 0.03
-Leon               : 0.03
-Battista           : 0.03
-ano                : 0.03
-embora             : 0.03
-haja               : 0.03
-indicação          : 0.03
-já                 : 0.03
-conhecida          : 0.03
-Kindi              : 0.03
-inovação           : 0.03
-alfabetos          : 0.03
-talvez             : 0.03
-sucessiva          : 0.03
-limite             : 0.03
-Ele                : 0.03
-inventou           : 0.03
-provavelmente      : 0.03
-dispositivo        : 0.03
-cifrador           : 0.03
-automático         : 0.03
-roda               : 0.03
-implementou        : 0.03
-realização         : 0.03
-parcial            : 0.03
-sua                : 0.03
-controla           : 0.03
-dependendo         : 0.03
-meados             : 0.03
-Charles            : 0.03
-Babbage            : 0.03
-mostrou            : 0.03
-vulnerável         : 0.03
-exame              : 0.03
-publicado          : 0.03
-cerca              : 0.03
-dez                : 0.03
-depois             : 0.03
-Friedrich          : 0.03
-áreas              : 0.03
-vem                : 0.03
-robusta            : 0.03
-avançados          : 0.03
-evolui             : 0.03
-cibernética        : 0.03
-mundo              : 0.03
-utilização         : 0.03
-transmitidos       : 0.03
-maneira            : 0.03
-protegendo         : 0.03
-acessos            : 0.03
-longo              : 0.03
-evoluiu            : 0.03
-desde              : 0.03
-hoje               : 0.03
-Hoje               : 0.03
-setores            : 0.03
-Sistemas           : 0.03
-empregados         : 0.03
-bancárias          : 0.03
-armazenamento      : 0.03
-dispositivos       : 0.03
-móveis             : 0.03
-servidores         : 0.03
-impedindo          : 0.03
-interceptados      : 0.03
-adulterados        : 0.03
-durante            : 0.03
-transmissão        : 0.03
-amplamente         : 0.03
-cenários           : 0.03
-criptografar       : 0.03
-descriptografar    : 0.03
-Já                 : 0.03
-utiliza            : 0.03
-criptografados     : 0.03
-descriptografados  : 0.03
-útil               : 0.03
-assinatura         : 0.03
-estudar            : 0.03
-conceitos          : 0.03
-surgem             : 0.03
-considerado        : 0.03
-quando             : 0.03
-parte              : 0.03
-impossível         : 0.03
-descobrir          : 0.03
-Com                : 0.03
-avanço             : 0.03
-aumento            : 0.03
-quantidade         : 0.03
-crescer            : 0.03
-indispensável      : 0.03
-luta               : 0.03
-hackers            : 0.03
-agentes            : 0.03
-maliciosos         : 0.03
-realmente          : 0.03
-devem              : 0.03
-atualizados        : 0.03
-regularmente       : 0.03
-adaptando          : 0.03
-novas              : 0.03
-aproveitando       : 0.03
-últimos            : 0.03
-avanços            : 0.03
-Porém              : 0.03
-solução            : 0.03
-mágica             : 0.03
-está               : 0.03
-manejo             : 0.03
-Se                 : 0.03
-for                : 0.03
-comprometida       : 0.03
-toda               : 0.03
-proporcionada      : 0.03
-destruída          : 0.03
-revisados          : 0.03
-testados           : 0.03
-diante             : 0.03
-atuais             : 0.03
-sociedade          : 0.03
-extrema            : 0.03
-Sem                : 0.03
-ela                : 0.03
-muitas             : 0.03
-usamos             : 0.03
-dias               : 0.03
-seriam             : 0.03
-viáveis            : 0.03
-Por                : 0.03
-financeiras        : 0.03
-pessoas            : 0.03
-façam              : 0.03
-compras            : 0.03
-paguem             : 0.03
-contas             : 0.03
-sabendo            : 0.03
-serviços           : 0.03
-mails              : 0.03
-enviadas           : 0.03
-crucial            : 0.03
-cumprimento        : 0.03
-Regulamento        : 0.03
-Geral              : 0.03
-Proteção           : 0.03
-GDPR               : 0.03
-exige              : 0.03
-empresas           : 0.03
-adotem             : 0.03
-medidas            : 0.03
-caso               : 0.03
-acessados          : 0.03
-apropriada         : 0.03
-resumo             : 0.03
-poderosa           : 0.03
-À                  : 0.03
-medida             : 0.03
-evoluir            : 0.03
-precisa            : 0.03
-adaptar            : 0.03
-É                  : 0.03
-constante          : 0.03
-novos              : 0.03
-surgindo           : 0.03
-tempo              : 0.03
-todo               : 0.03
-buscando           : 0.03
-melhorar           : 0.03
-usuários           : 0.03
+1 criptografia       : 7.68
+2 de                 : 6.60
+3 a                  : 2.66
+4 e                  : 2.29
+5 que                : 1.86
+6 uma                : 1.86
+7 para               : 1.77
+8 o                  : 1.55
+9 é                  : 1.33
+10 em                 : 1.21
+11 da                 : 1.05
+12 ou                 : 0.96
+13 os                 : 0.87
+14 se                 : 0.87
+15 A                  : 0.84
+16 um                 : 0.84
+17 cifra              : 0.81
+18 na                 : 0.77
+19 por                : 0.74
+20 com                : 0.71
+21 chave              : 0.62
+22 letras             : 0.59
+23 mais               : 0.53
+24 dados              : 0.53
+25 no                 : 0.50
+26 como               : 0.46
+27 as                 : 0.46
+28 cifras             : 0.46
+29 texto              : 0.43
+30 mensagem           : 0.43
+31 exemplo            : 0.43
+32 uso                : 0.43
+33 são                : 0.40
+34 simples            : 0.40
+35 do                 : 0.37
+36 das                : 0.37
+37 era                : 0.37
+38 usada              : 0.37
+39 sistemas           : 0.37
+40 informações        : 0.34
+41 cifragem           : 0.31
+42 O                  : 0.31
+43 dos                : 0.31
+44 métodos            : 0.31
+45 cada               : 0.31
+46 seja               : 0.31
+47 prática            : 0.28
+48 também             : 0.28
+49 sem                : 0.28
+50 algoritmos         : 0.28
+51 primeiro           : 0.28
+52 letra              : 0.28
+53 foi                : 0.28
+54 criptologia        : 0.25
+55 moderna            : 0.25
+56 segurança          : 0.25
+57 à                  : 0.25
+58 não                : 0.25
+59 vez                : 0.25
+60 mesmo              : 0.25
+61 Na                 : 0.25
+62 estudo             : 0.22
+63 técnicas           : 0.22
+64 digitais           : 0.22
+65 cifrado            : 0.22
+66 ser                : 0.22
+67 seguros            : 0.22
+68 até                : 0.22
+69 substituição       : 0.22
+70 esteganografia     : 0.22
+71 garantir           : 0.22
+72 segura             : 0.19
+73 forma              : 0.19
+74 mensagens          : 0.19
+75 outras             : 0.19
+76 incluem            : 0.19
+77 decifragem         : 0.19
+78 usar               : 0.19
+79 chaves             : 0.19
+80 assimétricos       : 0.19
+81 No                 : 0.19
+82 torna              : 0.19
+83 pela               : 0.19
+84 alfabeto           : 0.19
+85 Criptografia       : 0.15
+86 computação         : 0.15
+87 confidencialidade  : 0.15
+88 tornando           : 0.15
+89 sejam              : 0.15
+90 Em                 : 0.15
+91 digital            : 0.15
+92 ao                 : 0.15
+93 tempos             : 0.15
+94 possíveis          : 0.15
+95 tipos              : 0.15
+96 simétricos         : 0.15
+97 ter                : 0.15
+98 outros             : 0.15
+99 grupos             : 0.15
+100 essencial          : 0.15
+101 antigo             : 0.12
+102 comunicação        : 0.12
+103 autenticação       : 0.12
+104 militares          : 0.12
+105 pode               : 0.12
+106 apenas             : 0.12
+107 qualquer           : 0.12
+108 esquemas           : 0.12
+109 podem              : 0.12
+110 mas                : 0.12
+111 Uma                : 0.12
+112 pelos              : 0.12
+113 principais         : 0.12
+114 Os                 : 0.12
+115 usados             : 0.12
+116 todos              : 0.12
+117 palavra            : 0.12
+118 isso               : 0.12
+119 transposição       : 0.12
+120 sistematicamente   : 0.12
+121 inicial            : 0.12
+122 César              : 0.12
+123 comunicar          : 0.12
+124 sido               : 0.12
+125 ocultar            : 0.12
+126 esconder           : 0.12
+127 diferentes         : 0.12
+128 Kautiliyam         : 0.12
+129 Mulavediya         : 0.12
+130 vogais             : 0.12
+131 secretas           : 0.12
+132 árabes             : 0.12
+133 ameaças            : 0.12
+134 adversário         : 0.09
+135 informação         : 0.09
+136 integridade        : 0.09
+137 As                 : 0.09
+138 aplicações         : 0.09
+139 comunicações       : 0.09
+140 ininteligível      : 0.09
+141 remetente          : 0.09
+142 usa                : 0.09
+143 E                  : 0.09
+144 desenvolvimento    : 0.09
+145 real               : 0.09
+146 teoricamente       : 0.09
+147 portanto           : 0.09
+148 ferramenta         : 0.09
+149 la                 : 0.09
+150 papel              : 0.09
+151 termo              : 0.09
+152 século             : 0.09
+153 modernos           : 0.09
+154 chamadas           : 0.09
+155 textos             : 0.09
+156 palavras           : 0.09
+157 volta              : 0.09
+158 par                : 0.09
+159 algoritmo          : 0.09
+160 conhecido          : 0.09
+161 necessária         : 0.09
+162 trivialmente       : 0.09
+163 conhecimento       : 0.09
+164 dois               : 0.09
+165 secreta            : 0.09
+166 usam               : 0.09
+167 pública            : 0.09
+168 decifrar           : 0.09
+169 Exemplos           : 0.09
+170 usado              : 0.09
+171 código             : 0.09
+172 significado        : 0.09
+173 esquema            : 0.09
+174 abaixo             : 0.09
+175 várias             : 0.09
+176 frequência         : 0.09
+177 combinações        : 0.09
+178 outra              : 0.09
+179 ponta              : 0.09
+180 campo              : 0.09
+181 entre              : 0.09
+182 qual               : 0.09
+183 seus               : 0.09
+184 primeira           : 0.09
+185 antigos            : 0.09
+186 Um                 : 0.09
+187 anos               : 0.09
+188 Al                 : 0.09
+189 todas              : 0.09
+190 garante            : 0.09
+191 proteção           : 0.09
+192 privacidade        : 0.09
+193 eficaz             : 0.09
+194 assimétrica        : 0.09
+195 secreto            : 0.06
+196 geral              : 0.06
+197 construção         : 0.06
+198 análise            : 0.06
+199 ler                : 0.06
+200 matemática         : 0.06
+201 ciência            : 0.06
+202 sentido            : 0.06
+203 só                 : 0.06
+204 processo           : 0.06
+205 técnica            : 0.06
+206 destinatários      : 0.06
+207 pretendidos        : 0.06
+208 acesso             : 0.06
+209 geralmente         : 0.06
+210 destinatário       : 0.06
+211 cifrar             : 0.06
+212 Guerra             : 0.06
+213 Mundial            : 0.06
+214 complexos          : 0.06
+215 suas               : 0.06
+216 criptográficos     : 0.06
+217 projetados         : 0.06
+218 difíceis           : 0.06
+219 quebrados          : 0.06
+220 sistema            : 0.06
+221 bem                : 0.06
+222 computacionalmente : 0.06
+223 tecnologia         : 0.06
+224 rápida             : 0.06
+225 único              : 0.06
+226 muitos             : 0.06
+227 algumas            : 0.06
+228 leis               : 0.06
+229 permitem           : 0.06
+230 desempenha         : 0.06
+231 direitos           : 0.06
+232 violação           : 0.06
+233 XIX                : 0.06
+234 —                  : 0.06
+235 história           : 0.06
+236 conversão          : 0.06
+237 tanto              : 0.06
+238 pelo               : 0.06
+239 quanto             : 0.06
+240 idealmente         : 0.06
+241 termos             : 0.06
+242 finitos            : 0.06
+243 frequentemente     : 0.06
+244 mesma              : 0.06
+245 significativamente : 0.06
+246 privada            : 0.06
+247 permitindo         : 0.06
+248 partes             : 0.06
+249 usando             : 0.06
+250 essa               : 0.06
+251 Algoritmos         : 0.06
+252 Padrão             : 0.06
+253 Cifragem           : 0.06
+254 Dados              : 0.06
+255 invenção           : 0.06
+256 ataque             : 0.06
+257 elemento           : 0.06
+258 etc                : 0.06
+259 inglês             : 0.06
+260 militar            : 0.06
+261 referir            : 0.06
+262 criptoanálise      : 0.06
+263 línguas            : 0.06
+264 nas                : 0.06
+265 às                 : 0.06
+266 alguma             : 0.06
+267 criptolinguística  : 0.06
+268 especialmente      : 0.06
+269 clássicas          : 0.06
+270 reorganizam        : 0.06
+271 ordem              : 0.06
+272 hello              : 0.06
+273 world              : 0.06
+274 ehlol              : 0.06
+275 owrdl              : 0.06
+276 rearranjo          : 0.06
+277 substituem         : 0.06
+278 voar               : 0.06
+279 wpbs               : 0.06
+280 ef                 : 0.06
+281 vnb                : 0.06
+282 wfa                : 0.06
+283 substituindo       : 0.06
+284 seguinte           : 0.06
+285 latino             : 0.06
+286 Versões            : 0.06
+287 delas              : 0.06
+288 nunca              : 0.06
+289 ofereceram         : 0.06
+290 muita              : 0.06
+291 oponentes          : 0.06
+292 empreendedores     : 0.06
+293 substituída        : 0.06
+294 número             : 0.06
+295 fixo               : 0.06
+296 posições           : 0.06
+297 Suetônio           : 0.06
+298 relata             : 0.06
+299 Júlio              : 0.06
+300 usava              : 0.06
+301 deslocamento       : 0.06
+302 três               : 0.06
+303 generais           : 0.06
+304 Atbash             : 0.06
+305 hebraica           : 0.06
+306 algum              : 0.06
+307 esculpido          : 0.06
+308 pedra              : 0.06
+309 Egito              : 0.06
+310 c                  : 0.06
+311 C                  : 0.06
+312 feito              : 0.06
+313 diversão           : 0.06
+314 observadores       : 0.06
+315 letrados           : 0.06
+316 Diz                : 0.06
+317 gregos             : 0.06
+318 clássicos          : 0.06
+319 conheciam          : 0.06
+320 cítala             : 0.06
+321 alega              : 0.06
+322 espartanos         : 0.06
+323 existência         : 0.06
+324 mantê              : 0.06
+325 confidencial       : 0.06
+326 desenvolvida       : 0.06
+327 nos                : 0.06
+328 Heródoto           : 0.06
+329 tatuada            : 0.06
+330 cabeça             : 0.06
+331 raspada            : 0.06
+332 escravo            : 0.06
+333 escondida          : 0.06
+334 sob                : 0.06
+335 cabelo             : 0.06
+336 crescido           : 0.06
+337 Outros             : 0.06
+338 envolvem           : 0.06
+339 vista              : 0.06
+340 musical            : 0.06
+341 disfarçar          : 0.06
+342 criptografada      : 0.06
+343 dentro             : 0.06
+344 partitura          : 0.06
+345 regular            : 0.06
+346 tinta              : 0.06
+347 invisível          : 0.06
+348 micropontos        : 0.06
+349 marcas             : 0.06
+350 d                  : 0.06
+351 água               : 0.06
+352 Índia              : 0.06
+353 Kama               : 0.06
+354 Sutra              : 0.06
+355 Vātsyāyana         : 0.06
+356 fala               : 0.06
+357 substituições      : 0.06
+358 baseadas           : 0.06
+359 relações           : 0.06
+360 fonéticas          : 0.06
+361 consoantes         : 0.06
+362 consiste           : 0.06
+363 parear             : 0.06
+364 recíprocas         : 0.06
+365 Pérsia             : 0.06
+366 Sassânida          : 0.06
+367 havia              : 0.06
+368 duas               : 0.06
+369 escritas           : 0.06
+370 acordo             : 0.06
+371 autor              : 0.06
+372 muçulmano          : 0.06
+373 Ibn                : 0.06
+374 al                 : 0.06
+375 Nadim              : 0.06
+376 šāh                : 0.06
+377 dabīrīya           : 0.06
+378 literalmente       : 0.06
+379 escrita            : 0.06
+380 rei                : 0.06
+381 correspondência    : 0.06
+382 oficial            : 0.06
+383 rāz                : 0.06
+384 saharīya           : 0.06
+385 países             : 0.06
+386 David              : 0.06
+387 Kahn               : 0.06
+388 observa            : 0.06
+389 The                : 0.06
+390 Codebreakers       : 0.06
+391 originou           : 0.06
+392 povo               : 0.06
+393 documentar         : 0.06
+394 criptoanalíticos   : 0.06
+395 Khalil             : 0.06
+396 –                  : 0.06
+397 escreveu           : 0.06
+398 Livro              : 0.06
+399 Mensagens          : 0.06
+400 Criptográficas     : 0.06
+401 contém             : 0.06
+402 permutações        : 0.06
+403 listar             : 0.06
+404 frequências        : 0.06
+405 idioma             : 0.06
+406 ajuda              : 0.06
+407 tende              : 0.06
+408 Para               : 0.06
+409 polialfabética     : 0.06
+410 Alberti            : 0.06
+411 Vigenère           : 0.06
+412 Kasiski            : 0.06
+413 proteger           : 0.06
+414 constantemente     : 0.06
+415 sofisticadas       : 0.06
+416 fundamental        : 0.06
+417 sensíveis          : 0.06
+418 contra             : 0.06
+419 autorizados        : 0.06
+420 Ao                 : 0.06
+421 utilizados         : 0.06
+422 transações         : 0.06
+423 online             : 0.06
+424 pessoais           : 0.06
+425 Isso               : 0.06
+426 aplicada           : 0.06
+427 simétrica          : 0.06
+428 sendo              : 0.06
+429 seguro             : 0.06
+430 confiança          : 0.06
+431 tecnologias        : 0.06
+432 importância        : 0.06
+433 cibernéticas       : 0.06
+434 estão              : 0.06
+435 área               : 0.06
+436 Além               : 0.06
+437 disso              : 0.06
+438 continuam          : 0.06
+439 protegidos         : 0.06
+440 possam             : 0.06
+441 estejam            : 0.06
+442 grego              : 0.03
+443 κρυπτός            : 0.03
+444 romanizado         : 0.03
+445 kryptós            : 0.03
+446 oculto             : 0.03
+447 γράφειν            : 0.03
+448 graphein           : 0.03
+449 escrever           : 0.03
+450 λογία              : 0.03
+451 logia              : 0.03
+452 respectivamente    : 0.03
+453 presença           : 0.03
+454 comportamento      : 0.03
+455 De                 : 0.03
+456 trata              : 0.03
+457 protocolos         : 0.03
+458 impedem            : 0.03
+459 terceiros          : 0.03
+460 público            : 0.03
+461 privadas           : 0.03
+462 existe             : 0.03
+463 intersecção        : 0.03
+464 disciplinas        : 0.03
+465 engenharia         : 0.03
+466 elétrica           : 0.03
+467 processamento      : 0.03
+468 sinais             : 0.03
+469 física             : 0.03
+470 Conceitos          : 0.03
+471 básicos            : 0.03
+472 relacionados       : 0.03
+473 repúdio            : 0.03
+474 centrais           : 0.03
+475 práticas           : 0.03
+476 comércio           : 0.03
+477 eletrônico         : 0.03
+478 cartões            : 0.03
+479 pagamento          : 0.03
+480 baseados           : 0.03
+481 chip               : 0.03
+482 moedas             : 0.03
+483 senhas             : 0.03
+484 computador         : 0.03
+485 antes              : 0.03
+486 efetivamente       : 0.03
+487 sinônimo           : 0.03
+488 convertendo        : 0.03
+489 legíveis           : 0.03
+490 lido               : 0.03
+491 revertendo         : 0.03
+492 cifrada            : 0.03
+493 codificada         : 0.03
+494 compartilha        : 0.03
+495 decodificação      : 0.03
+496 impedir            : 0.03
+497 adversários        : 0.03
+498 literatura         : 0.03
+499 nomes              : 0.03
+500 Alice              : 0.03
+501 Bob                : 0.03
+502 B                  : 0.03
+503 pretendido         : 0.03
+504 Eve                : 0.03
+505 espião             : 0.03
+506 Desde              : 0.03
+507 máquinas           : 0.03
+508 rotor              : 0.03
+509 Primeira           : 0.03
+510 advento            : 0.03
+511 computadores       : 0.03
+512 Segunda            : 0.03
+513 tornaram           : 0.03
+514 variadas           : 0.03
+515 fortemente         : 0.03
+516 baseada            : 0.03
+517 teoria             : 0.03
+518 torno              : 0.03
+519 suposições         : 0.03
+520 dificuldade        : 0.03
+521 dureza             : 0.03
+522 computacional      : 0.03
+523 tais               : 0.03
+524 serem              : 0.03
+525 Embora             : 0.03
+526 possível           : 0.03
+527 invadir            : 0.03
+528 projetado          : 0.03
+529 inviável           : 0.03
+530 fazê               : 0.03
+531 lo                 : 0.03
+532 Tais               : 0.03
+533 denominados        : 0.03
+534 Avanços            : 0.03
+535 teóricos           : 0.03
+536 melhorias          : 0.03
+537 fatoração          : 0.03
+538 inteiros           : 0.03
+539 exigem             : 0.03
+540 esses              : 0.03
+541 designs            : 0.03
+542 continuamente      : 0.03
+543 reavaliados        : 0.03
+544 necessário         : 0.03
+545 adaptados          : 0.03
+546 Esquemas           : 0.03
+547 comprovadamente    : 0.03
+548 poder              : 0.03
+549 ilimitado          : 0.03
+550 OTP                : 0.03
+551 muito              : 0.03
+552 melhores           : 0.03
+553 quebráveis         : 0.03
+554 crescimento        : 0.03
+555 criptográfica      : 0.03
+556 levantou           : 0.03
+557 série              : 0.03
+558 questões           : 0.03
+559 legais             : 0.03
+560 Era                : 0.03
+561 Informação         : 0.03
+562 potencial          : 0.03
+563 espionagem         : 0.03
+564 sedição            : 0.03
+565 levou              : 0.03
+566 governos           : 0.03
+567 classificá         : 0.03
+568 arma               : 0.03
+569 limitar            : 0.03
+570 proibir            : 0.03
+571 seu                : 0.03
+572 exportação         : 0.03
+573 jurisdições        : 0.03
+574 onde               : 0.03
+575 legal              : 0.03
+576 investigadores     : 0.03
+577 obriguem           : 0.03
+578 divulgação         : 0.03
+579 encriptação        : 0.03
+580 documentos         : 0.03
+581 relevantes         : 0.03
+582 investigação       : 0.03
+583 importante         : 0.03
+584 gestão             : 0.03
+585 disputas           : 0.03
+586 autorais           : 0.03
+587 relação            : 0.03
+588 mídia              : 0.03
+589 oposição           : 0.03
+590 criptograma        : 0.03
+591 remonta            : 0.03
+592 originário         : 0.03
+593 Escaravelho        : 0.03
+594 Ouro               : 0.03
+595 Edgar              : 0.03
+596 Allan              : 0.03
+597 Poe                : 0.03
+598 Até                : 0.03
+599 referia            : 0.03
+600 quase              : 0.03
+601 exclusivamente     : 0.03
+602 comuns             : 0.03
+603 chamada            : 0.03
+604 inverso            : 0.03
+605 mover              : 0.03
+606 realizam           : 0.03
+607 reversa            : 0.03
+608 operação           : 0.03
+609 detalhada          : 0.03
+610 controlada         : 0.03
+611 instância          : 0.03
+612 segredo            : 0.03
+613 comunicantes       : 0.03
+614 sequência          : 0.03
+615 caracteres         : 0.03
+616 curta              : 0.03
+617 possa              : 0.03
+618 lembrada           : 0.03
+619 usuário            : 0.03
+620 decifar            : 0.03
+621 matemáticos        : 0.03
+622 formais            : 0.03
+623 criptossistema     : 0.03
+624 lista              : 0.03
+625 ordenada           : 0.03
+626 elementos          : 0.03
+627 cifrados           : 0.03
+628 finitas            : 0.03
+629 correspondem       : 0.03
+630 Chaves             : 0.03
+631 importantes        : 0.03
+632 formalmente        : 0.03
+633 pois               : 0.03
+634 variáveis          : 0.03
+635 quebradas          : 0.03
+636 inúteis            : 0.03
+637 contraproducentes  : 0.03
+638 maioria            : 0.03
+639 propósitos         : 0.03
+640 Historicamente     : 0.03
+641 eram               : 0.03
+642 usadas             : 0.03
+643 diretamente        : 0.03
+644 procedimentos      : 0.03
+645 adicionais         : 0.03
+646 verificações       : 0.03
+647 Existem            : 0.03
+648 criptossistemas    : 0.03
+649 únicos             : 0.03
+650 conhecidos         : 0.03
+651 década             : 0.03
+652 decifra            : 0.03
+653 manipulação        : 0.03
+654 relacionada        : 0.03
+655 vantagem           : 0.03
+656 publicada          : 0.03
+657 livremente         : 0.03
+658 estabeleçam        : 0.03
+659 compartilhada      : 0.03
+660 trocar             : 0.03
+661 seguida            : 0.03
+662 prossegue          : 0.03
+663 meio               : 0.03
+664 simétrico          : 0.03
+665 eficiente          : 0.03
+666 troca              : 0.03
+667 Diffie             : 0.03
+668 Hellman            : 0.03
+669 RSA                : 0.03
+670 Rivest             : 0.03
+671 Shamir             : 0.03
+672 Adleman            : 0.03
+673 ECC                : 0.03
+674 Curva              : 0.03
+675 Elíptica           : 0.03
+676 pós                : 0.03
+677 quântica           : 0.03
+678 AES                : 0.03
+679 Avançada           : 0.03
+680 comumente          : 0.03
+681 substituiu         : 0.03
+682 DES                : 0.03
+683 inseguros          : 0.03
+684 emaranhamento      : 0.03
+685 linguagem          : 0.03
+686 infantis           : 0.03
+687 Pig                : 0.03
+688 Latin              : 0.03
+689 jargões            : 0.03
+690 históricos         : 0.03
+691 seriamente         : 0.03
+692 anteriores         : 0.03
+693 início             : 0.03
+694 XX                 : 0.03
+695 coloquial          : 0.03
+696 significar         : 0.03
+697 método             : 0.03
+698 ocultação          : 0.03
+699 entanto            : 0.03
+700 tem                : 0.03
+701 específico         : 0.03
+702 unidade            : 0.03
+703 frase              : 0.03
+704 significativa      : 0.03
+705 wallaby            : 0.03
+706 substitui          : 0.03
+707 amanhecer          : 0.03
+708 contraste          : 0.03
+709 alterar            : 0.03
+710 substituir         : 0.03
+711 tal                : 0.03
+712 nível              : 0.03
+713 sílaba             : 0.03
+714 produzir           : 0.03
+715 Criptoanálise      : 0.03
+716 obter              : 0.03
+717 cifradas           : 0.03
+718 normalmente        : 0.03
+719 quebrar            : 0.03
+720 implementações     : 0.03
+721 Alguns             : 0.03
+722 alternadamente     : 0.03
+723 enquanto           : 0.03
+724 incluindo          : 0.03
+725 EUA                : 0.03
+726 especificamente    : 0.03
+727 criptográficas     : 0.03
+728 combinado          : 0.03
+729 flexível           : 0.03
+730 quais              : 0.03
+731 feita              : 0.03
+732 criptologistas     : 0.03
+733 sempre             : 0.03
+734 segundo            : 0.03
+735 acima              : 0.03
+736 RFC                : 0.03
+737 informa            : 0.03
+738 vezes              : 0.03
+739 incluída           : 0.03
+740 características    : 0.03
+741 têm                : 0.03
+742 aplicação          : 0.03
+743 padrões            : 0.03
+744 universais         : 0.03
+745 chamado            : 0.03
+746 inteligência       : 0.03
+747 estrangeiras       : 0.03
+748 Antes              : 0.03
+749 focava             : 0.03
+750 compreensível      : 0.03
+751 incompreensível    : 0.03
+752 ilegível           : 0.03
+753 interceptadores    : 0.03
+754 bisbilhoteiros     : 0.03
+755 tentava            : 0.03
+756 sigilo             : 0.03
+757 espiões            : 0.03
+758 líderes            : 0.03
+759 diplomatas         : 0.03
+760 Nas                : 0.03
+761 últimas            : 0.03
+762 décadas            : 0.03
+763 expandiu           : 0.03
+764 além               : 0.03
+765 preocupações       : 0.03
+766 incluir            : 0.03
+767 verificação        : 0.03
+768 identidade         : 0.03
+769 assinaturas        : 0.03
+770 provas             : 0.03
+771 interativas        : 0.03
+772 oferecer           : 0.03
+773 pouca              : 0.03
+774 histórica          : 0.03
+775 estendidas         : 0.03
+776 homofônica         : 0.03
+777 achatar            : 0.03
+778 distribuição       : 0.03
+779 essas              : 0.03
+780 n                  : 0.03
+781 grama              : 0.03
+782 fornecer           : 0.03
+783 Essencialmente     : 0.03
+784 permaneceram       : 0.03
+785 vulneráveis        : 0.03
+786 ​​à                : 0.03
+787 claramente         : 0.03
+788 Leon               : 0.03
+789 Battista           : 0.03
+790 ano                : 0.03
+791 embora             : 0.03
+792 haja               : 0.03
+793 indicação          : 0.03
+794 já                 : 0.03
+795 conhecida          : 0.03
+796 Kindi              : 0.03
+797 inovação           : 0.03
+798 alfabetos          : 0.03
+799 talvez             : 0.03
+800 sucessiva          : 0.03
+801 limite             : 0.03
+802 Ele                : 0.03
+803 inventou           : 0.03
+804 provavelmente      : 0.03
+805 dispositivo        : 0.03
+806 cifrador           : 0.03
+807 automático         : 0.03
+808 roda               : 0.03
+809 implementou        : 0.03
+810 realização         : 0.03
+811 parcial            : 0.03
+812 sua                : 0.03
+813 controla           : 0.03
+814 dependendo         : 0.03
+815 meados             : 0.03
+816 Charles            : 0.03
+817 Babbage            : 0.03
+818 mostrou            : 0.03
+819 vulnerável         : 0.03
+820 exame              : 0.03
+821 publicado          : 0.03
+822 cerca              : 0.03
+823 dez                : 0.03
+824 depois             : 0.03
+825 Friedrich          : 0.03
+826 áreas              : 0.03
+827 vem                : 0.03
+828 robusta            : 0.03
+829 avançados          : 0.03
+830 evolui             : 0.03
+831 cibernética        : 0.03
+832 mundo              : 0.03
+833 utilização         : 0.03
+834 transmitidos       : 0.03
+835 maneira            : 0.03
+836 protegendo         : 0.03
+837 acessos            : 0.03
+838 longo              : 0.03
+839 evoluiu            : 0.03
+840 desde              : 0.03
+841 hoje               : 0.03
+842 Hoje               : 0.03
+843 setores            : 0.03
+844 Sistemas           : 0.03
+845 empregados         : 0.03
+846 bancárias          : 0.03
+847 armazenamento      : 0.03
+848 dispositivos       : 0.03
+849 móveis             : 0.03
+850 servidores         : 0.03
+851 impedindo          : 0.03
+852 interceptados      : 0.03
+853 adulterados        : 0.03
+854 durante            : 0.03
+855 transmissão        : 0.03
+856 amplamente         : 0.03
+857 cenários           : 0.03
+858 criptografar       : 0.03
+859 descriptografar    : 0.03
+860 Já                 : 0.03
+861 utiliza            : 0.03
+862 criptografados     : 0.03
+863 descriptografados  : 0.03
+864 útil               : 0.03
+865 assinatura         : 0.03
+866 estudar            : 0.03
+867 conceitos          : 0.03
+868 surgem             : 0.03
+869 considerado        : 0.03
+870 quando             : 0.03
+871 parte              : 0.03
+872 impossível         : 0.03
+873 descobrir          : 0.03
+874 Com                : 0.03
+875 avanço             : 0.03
+876 aumento            : 0.03
+877 quantidade         : 0.03
+878 crescer            : 0.03
+879 indispensável      : 0.03
+880 luta               : 0.03
+881 hackers            : 0.03
+882 agentes            : 0.03
+883 maliciosos         : 0.03
+884 realmente          : 0.03
+885 devem              : 0.03
+886 atualizados        : 0.03
+887 regularmente       : 0.03
+888 adaptando          : 0.03
+889 novas              : 0.03
+890 aproveitando       : 0.03
+891 últimos            : 0.03
+892 avanços            : 0.03
+893 Porém              : 0.03
+894 solução            : 0.03
+895 mágica             : 0.03
+896 está               : 0.03
+897 manejo             : 0.03
+898 Se                 : 0.03
+899 for                : 0.03
+900 comprometida       : 0.03
+901 toda               : 0.03
+902 proporcionada      : 0.03
+903 destruída          : 0.03
+904 revisados          : 0.03
+905 testados           : 0.03
+906 diante             : 0.03
+907 atuais             : 0.03
+908 sociedade          : 0.03
+909 extrema            : 0.03
+910 Sem                : 0.03
+911 ela                : 0.03
+912 muitas             : 0.03
+913 usamos             : 0.03
+914 dias               : 0.03
+915 seriam             : 0.03
+916 viáveis            : 0.03
+917 Por                : 0.03
+918 financeiras        : 0.03
+919 pessoas            : 0.03
+920 façam              : 0.03
+921 compras            : 0.03
+922 paguem             : 0.03
+923 contas             : 0.03
+924 sabendo            : 0.03
+925 serviços           : 0.03
+926 mails              : 0.03
+927 enviadas           : 0.03
+928 crucial            : 0.03
+929 cumprimento        : 0.03
+930 Regulamento        : 0.03
+931 Geral              : 0.03
+932 Proteção           : 0.03
+933 GDPR               : 0.03
+934 exige              : 0.03
+935 empresas           : 0.03
+936 adotem             : 0.03
+937 medidas            : 0.03
+938 caso               : 0.03
+939 acessados          : 0.03
+940 apropriada         : 0.03
+941 resumo             : 0.03
+942 poderosa           : 0.03
+943 À                  : 0.03
+944 medida             : 0.03
+945 evoluir            : 0.03
+946 precisa            : 0.03
+947 adaptar            : 0.03
+948 É                  : 0.03
+949 constante          : 0.03
+950 novos              : 0.03
+951 surgindo           : 0.03
+952 tempo              : 0.03
+953 todo               : 0.03
+954 buscando           : 0.03
+955 melhorar           : 0.03
+956 usuários           : 0.03
