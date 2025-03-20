@@ -1,0 +1,6 @@
+/Volumes/ANIRO_IOS/Estudos Python/pense_python_livro/pense_em_python/Pense Em Python/Arquivos/abrindo_arquivos.py
+/Volumes/ANIRO_IOS/Estudos Python/pense_python_livro/pense_em_python/Pense Em Python/Arquivos/novo_arquivo.txt
+/Volumes/ANIRO_IOS/Estudos Python/pense_python_livro/pense_em_python/Pense Em Python/Arquivos/banco_dados.py
+/Volumes/ANIRO_IOS/Estudos Python/pense_python_livro/pense_em_python/Pense Em Python/Arquivos/banco.db
+/Volumes/ANIRO_IOS/Estudos Python/pense_python_livro/pense_em_python/Pense Em Python/Arquivos/arquivos_caminhos.py
+/Volumes/ANIRO_IOS/Estudos Python/pense_python_livro/pense_em_python/Pense Em Python/Arquivos/arquivo_diretrios.txt
