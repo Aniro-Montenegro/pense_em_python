@@ -8,7 +8,7 @@ class Pessoa:
         self.rg=rg
         self.sexo=sexo
     def __repr__(self):
-        return f"Estrangeiro(nome={self.nome}, idade={self.idade}, cor={self.cor}, cicatrizes={self.cicatrizes}, olhos={self.olhos}, rg={self.rg}, sexo={self.sexo})"
+        return f"Pessoa(nome={self.nome}, idade={self.idade}, cor={self.cor}, cicatrizes={self.cicatrizes}, olhos={self.olhos}, rg={self.rg}, sexo={self.sexo})"
 
 
 class Estrangeiro(Pessoa):
